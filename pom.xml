@@ -106,7 +106,7 @@
         <version>2.3.0</version>  
         <configuration> 
           <schemaVersion>v2</schemaVersion>  
-          <subscriptionId>2511f380-c581-4686-9450-3a09b1c1c6e4</subscriptionId>  
+          <subscriptionId>---</subscriptionId>  
           <resourceGroup>springboot</resourceGroup>  
           <appName>taskplatform</appName>  
           <pricingTier>F1</pricingTier>  
